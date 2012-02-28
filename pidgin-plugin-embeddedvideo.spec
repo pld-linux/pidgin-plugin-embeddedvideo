@@ -3,7 +3,7 @@ Summary:	Show youtube and vimeo videos in pidgin
 Summary(hu.UTF-8):	Youtube és vimeo videók megjelenítése a pidgin-ben
 Name:		pidgin-plugin-embeddedvideo
 Version:	1.0
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/Communications
 Source0:	http://pidgin-embeddedvideo.googlecode.com/files/pidgin-embeddedvideo-%{version}.tar.gz
